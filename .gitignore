@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+
+# Unit test / coverage
+.coverage
+.tox/
+.pytest_cache/
+nose2-*.xml
+coverage.xml
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+dist/
